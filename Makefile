@@ -1,6 +1,9 @@
 default:
 	node index
 
+dev:
+	./node_modules/.bin/live-server
+
 install:
 	npm install
 
