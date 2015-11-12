@@ -9,7 +9,7 @@ describe('math', function () {
     var result = sut.add(1, 2);
 
     it('adds the numbers', function () {
-      expect(result).to.eql(3);
+      expect(result).to.eql(4);
     });
 
   })
