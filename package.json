@@ -1,0 +1,22 @@
+{
+  "name": "autom-ev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eespinal/autom-ev.git"
+  },
+  "author": "Eddy Espinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eespinal/autom-ev/issues"
+  },
+  "homepage": "https://github.com/eespinal/autom-ev#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
